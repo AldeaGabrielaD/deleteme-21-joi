@@ -5,3 +5,7 @@
 
 [coke](./drinks/coke.md)
 [lemonade](./drinks/lemonade.md)
+## deserts
+
+[pancakes](./recipes/pancakes.md)
+[papanasi](./recipes/papanasi.md)
